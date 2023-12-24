@@ -13,21 +13,21 @@
             background-color: #f8f8f8;
         }
 
-        header {
+header {
             background-color: #333;
             color: #fff;
             padding: 20px;
             text-align: center;
         }
 
-        nav {
+nav {
             background-color: #444;
             color: #fff;
             padding: 10px;
             text-align: center;
         }
 
-        nav a {
+nav a {
             color: #fff;
             text-decoration: none;
             padding: 10px;
@@ -35,7 +35,7 @@
             font-weight: bold;
         }
 
-        section {
+section {
             display: flex;
             justify-content: center;
             align-items: center;
@@ -43,34 +43,33 @@
             padding: 40px;
         }
 
-        section h2 {
+section h2 {
             color: #333;
             margin-bottom: 20px;
         }
 
-        section p {
+section p {
             color: #555;
             text-align: center;
         }
 
-    </style>
+</style>
 </head>
 
 <body>
 
-    <header>
+<header>
         <h1>Výtej starče!</h1>
-    </header>
+</header>
 
-    <nav>
+<nav>
         <a href="#">Home</a>
         <a href="#">videa</a>
         <a href="#">Contact</a>
-    </nav>
-
-    <section>
+</nav>
+<section>
         <h2>Pojd si trochu zavzpomínat</h2>
-        <p> <iframe 
+<iframe 
             style="margin: 10px;"
             width="560" 
             height="315" 
@@ -81,7 +80,7 @@
             allowfullscreen>
             </iframe>
             
-            <iframe style="margin: 10px;" width="560" height="315" src="https://www.youtube.com/embed/mOfbHdo4nLA?si=Hox2NrSqvMdleZyv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="margin: 10px;" width="560" height="315" src="https://www.youtube.com/embed/mOfbHdo4nLA?si=Hox2NrSqvMdleZyv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             <iframe style="margin: 10px;" width="560" height="315" src="https://www.youtube.com/embed/DDyjRADSsBo?si=xLRb7AXnBlN4Do1_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             <iframe style="margin: 10px;" width="560" height="315" src="https://www.youtube.com/embed/IIIQ4uZ4Iew?si=pDq-l4zVF9LWe0ez" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             <iframe style="margin: 10px;" width="560" height="315" src="https://www.youtube.com/embed/XfDYLaJWuD4?si=n62lQxHRUNQQ6ERu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -90,8 +89,8 @@
             <iframe style="margin: 10px;" width="560" height="315" src="https://www.youtube.com/embed/ohAXaGO1msY?si=CkpknMf0QtYzO-wN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             <iframe style="margin: 10px;" width="560" height="315" src="https://www.youtube.com/embed/7u8o92i0b6E?si=qgmz7_oHS8vP72bu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             <iframe style="margin: 10px;" width="560" height="315" src="https://www.youtube.com/embed/09BG7wftxeI?si=kS6LsxUXd1hsSuEQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-        </p>
-    </section>
+
+</section>
 
 
 </body>
