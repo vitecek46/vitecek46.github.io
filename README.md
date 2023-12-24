@@ -53,15 +53,6 @@
             text-align: center;
         }
 
-        footer {
-            background-color: #333;
-            color: #fff;
-            padding: 10px;
-            text-align: center;
-            position: fixed;
-            bottom: 0;
-            width: 100%;
-        }
     </style>
 </head>
 
@@ -102,9 +93,6 @@
         </p>
     </section>
 
-    <footer>
-        <p>Naše nádherná videa</p>
-    </footer>
 
 </body>
 
